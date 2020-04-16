@@ -1,0 +1,281 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-16 19:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
+"%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: shop/templates/shop/about.html:11 shop/templates/shop/blog.html:10
+#: shop/templates/shop/cart.html:10 shop/templates/shop/shop.html:12
+#, fuzzy
+#| msgid "HomePage"
+msgid "Home"
+msgstr "Главная"
+
+#: shop/templates/shop/about.html:11 shop/templates/shop/about.html:12
+msgid "About us"
+msgstr "О нас"
+
+#: shop/templates/shop/about.html:46
+msgid "Subscribe to out newsletter"
+msgstr "Подпишись на наши обновления"
+
+#: shop/templates/shop/about.html:234 shop/templates/shop/about.html:235
+msgid "Support"
+msgstr "Поддержка"
+
+#: shop/templates/shop/base.html:64 shop/templates/shop/base.html:120
+msgid "Menu"
+msgstr "Меню"
+
+#: shop/templates/shop/base.html:69
+msgid "HomePage"
+msgstr "Главная"
+
+#: shop/templates/shop/base.html:73 shop/templates/shop/base.html:122
+msgid "Shop"
+msgstr "Магазин"
+
+#: shop/templates/shop/base.html:74
+msgid "Wishlist"
+msgstr "Избранное"
+
+#: shop/templates/shop/base.html:75
+msgid "Product Single"
+msgstr "Продукт"
+
+#: shop/templates/shop/base.html:76
+msgid "Cart"
+msgstr "Корзина"
+
+#: shop/templates/shop/base.html:77
+msgid "Checkout"
+msgstr "Оформление заказа"
+
+#: shop/templates/shop/base.html:80 shop/templates/shop/base.html:123
+msgid "About"
+msgstr ""
+
+#: shop/templates/shop/base.html:124
+msgid "Journal"
+msgstr ""
+
+#: shop/templates/shop/base.html:125
+msgid "Contact us"
+msgstr ""
+
+#: shop/templates/shop/base.html:131
+msgid "Help"
+msgstr ""
+
+#: shop/templates/shop/base.html:134
+msgid "Shipping Information"
+msgstr ""
+
+#: shop/templates/shop/base.html:135
+msgid "Returns & Exchange"
+msgstr ""
+
+#: shop/templates/shop/base.html:136
+msgid "Terms & Conditions"
+msgstr ""
+
+#: shop/templates/shop/base.html:137
+msgid "Privacy Policy"
+msgstr ""
+
+#: shop/templates/shop/base.html:141
+msgid "Contacts"
+msgstr ""
+
+#: shop/templates/shop/base.html:148
+msgid "Have questions?"
+msgstr ""
+
+#: shop/templates/shop/blog.html:11
+msgid "Blog"
+msgstr ""
+
+#: shop/templates/shop/blog.html:130
+msgid "Categories"
+msgstr ""
+
+#: shop/templates/shop/blog.html:132 shop/templates/shop/index.html:100
+#: shop/templates/shop/index.html:114 shop/templates/shop/shop.html:25
+msgid "Vegetables"
+msgstr ""
+
+#: shop/templates/shop/blog.html:133 shop/templates/shop/index.html:109
+#: shop/templates/shop/shop.html:26
+msgid "Fruits"
+msgstr ""
+
+#: shop/templates/shop/blog.html:134 shop/templates/shop/shop.html:27
+msgid "Juice"
+msgstr ""
+
+#: shop/templates/shop/blog.html:135
+msgid "Dries"
+msgstr ""
+
+#: shop/templates/shop/cart.html:11
+msgid "My cart"
+msgstr ""
+
+#: shop/templates/shop/cart.html:27
+msgid "Product name"
+msgstr ""
+
+#: shop/templates/shop/cart.html:28
+msgid "Price"
+msgstr ""
+
+#: shop/templates/shop/cart.html:29
+msgid "Quantity"
+msgstr ""
+
+#: shop/templates/shop/cart.html:30 shop/templates/shop/cart.html:132
+msgid "Total"
+msgstr ""
+
+#: shop/templates/shop/cart.html:83 shop/templates/shop/cart.html:87
+msgid "Coupon code"
+msgstr ""
+
+#: shop/templates/shop/cart.html:84
+msgid "Enter your coupon code if you have one"
+msgstr ""
+
+#: shop/templates/shop/cart.html:92
+msgid "Apply Coupon"
+msgstr ""
+
+#: shop/templates/shop/cart.html:96
+msgid "Estimate shipping and tax"
+msgstr ""
+
+#: shop/templates/shop/cart.html:97
+msgid "Enter your destination to get a shipping estimate"
+msgstr ""
+
+#: shop/templates/shop/cart.html:100
+msgid "Country"
+msgstr ""
+
+#: shop/templates/shop/cart.html:104
+msgid "State/Province"
+msgstr ""
+
+#: shop/templates/shop/cart.html:108
+msgid "Zip/Postal code"
+msgstr ""
+
+#: shop/templates/shop/cart.html:113
+msgid "Estimate"
+msgstr ""
+
+#: shop/templates/shop/cart.html:117
+msgid "Cart totals"
+msgstr ""
+
+#: shop/templates/shop/cart.html:119
+msgid "Totals"
+msgstr ""
+
+#: shop/templates/shop/cart.html:123
+msgid "Delivery"
+msgstr ""
+
+#: shop/templates/shop/cart.html:127
+msgid "Discount"
+msgstr ""
+
+#: shop/templates/shop/index.html:15
+msgid "We serve Fresh Vegestables &Fruits"
+msgstr ""
+
+#: shop/templates/shop/index.html:16
+msgid "We deliver organic vegetables & fruits"
+msgstr ""
+
+#: shop/templates/shop/index.html:17 shop/templates/shop/index.html:32
+msgid "View Details"
+msgstr ""
+
+#: shop/templates/shop/index.html:30
+#, python-format
+msgid "100%% Fresh & Organic Foods"
+msgstr ""
+
+#: shop/templates/shop/index.html:31
+msgid "We deliver organic vegetables &amp; fruits"
+msgstr ""
+
+#: shop/templates/shop/index.html:50
+msgid "Free Shipping"
+msgstr ""
+
+#: shop/templates/shop/index.html:51
+msgid "On order over $100"
+msgstr ""
+
+#: shop/templates/shop/index.html:61
+msgid "Always Fresh"
+msgstr ""
+
+#: shop/templates/shop/index.html:62
+msgid "Product well package"
+msgstr ""
+
+#: shop/templates/shop/index.html:72
+msgid "Superior Quality"
+msgstr ""
+
+#: shop/templates/shop/index.html:73
+msgid "Quality Products"
+msgstr ""
+
+#: shop/templates/shop/index.html:83
+msgid "Support<"
+msgstr ""
+
+#: shop/templates/shop/index.html:84
+msgid "24/7 Support<"
+msgstr ""
+
+#: shop/templates/shop/index.html:101
+msgid "Protect the health of every home"
+msgstr ""
+
+#: shop/templates/shop/index.html:102
+#, fuzzy
+#| msgid "Shop"
+msgid "Shop now"
+msgstr "Магазин"
+
+#: shop/templates/shop/shop.html:13
+msgid "Products"
+msgstr ""
+
+#: shop/templates/shop/shop.html:24
+msgid "All"
+msgstr ""
+
+#: shop/templates/shop/shop.html:28
+msgid "Dried"
+msgstr ""
