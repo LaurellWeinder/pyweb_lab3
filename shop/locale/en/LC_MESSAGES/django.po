@@ -27,15 +27,15 @@ msgstr "Home"
 
 #: shop/templates/shop/about.html:11 shop/templates/shop/about.html:12
 msgid "About us"
-msgstr ""
+msgstr "About us"
 
 #: shop/templates/shop/about.html:46
 msgid "Subscribe to out newsletter"
-msgstr ""
+msgstr "Subscribe to out newsletter"
 
 #: shop/templates/shop/about.html:234 shop/templates/shop/about.html:235
 msgid "Support"
-msgstr ""
+msgstr "Support"
 
 #: shop/templates/shop/base.html:64 shop/templates/shop/base.html:120
 msgid "Menu"
@@ -51,229 +51,229 @@ msgstr "Shop"
 
 #: shop/templates/shop/base.html:74
 msgid "Wishlist"
-msgstr ""
+msgstr "Wishlist"
 
 #: shop/templates/shop/base.html:75
 msgid "Product Single"
-msgstr ""
+msgstr "Product Single"
 
 #: shop/templates/shop/base.html:76
 msgid "Cart"
-msgstr ""
+msgstr "Cart"
 
 #: shop/templates/shop/base.html:77
 msgid "Checkout"
-msgstr ""
+msgstr "Checkout"
 
 #: shop/templates/shop/base.html:80 shop/templates/shop/base.html:123
 msgid "About"
-msgstr ""
+msgstr "About"
 
 #: shop/templates/shop/base.html:124
 msgid "Journal"
-msgstr ""
+msgstr "Journal"
 
 #: shop/templates/shop/base.html:125
 msgid "Contact us"
-msgstr ""
+msgstr "Contact us"
 
 #: shop/templates/shop/base.html:131
 msgid "Help"
-msgstr ""
+msgstr "Help"
 
 #: shop/templates/shop/base.html:134
 msgid "Shipping Information"
-msgstr ""
+msgstr "Shipping Information"
 
 #: shop/templates/shop/base.html:135
 msgid "Returns & Exchange"
-msgstr ""
+msgstr "Returns & Exchange"
 
 #: shop/templates/shop/base.html:136
 msgid "Terms & Conditions"
-msgstr ""
+msgstr "Terms & Conditions"
 
 #: shop/templates/shop/base.html:137
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Privacy Policy"
 
 #: shop/templates/shop/base.html:141
 msgid "Contacts"
-msgstr ""
+msgstr "Contacts"
 
 #: shop/templates/shop/base.html:148
 msgid "Have questions?"
-msgstr ""
+msgstr "Have questions?"
 
 #: shop/templates/shop/blog.html:11
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
 
 #: shop/templates/shop/blog.html:130
 msgid "Categories"
-msgstr ""
+msgstr "Categories"
 
 #: shop/templates/shop/blog.html:132 shop/templates/shop/index.html:100
 #: shop/templates/shop/index.html:114 shop/templates/shop/shop.html:25
 msgid "Vegetables"
-msgstr ""
+msgstr "Vegetables"
 
 #: shop/templates/shop/blog.html:133 shop/templates/shop/index.html:109
 #: shop/templates/shop/shop.html:26
 msgid "Fruits"
-msgstr ""
+msgstr "Fruits"
 
 #: shop/templates/shop/blog.html:134 shop/templates/shop/shop.html:27
 msgid "Juice"
-msgstr ""
+msgstr "Juice"
 
 #: shop/templates/shop/blog.html:135
 msgid "Dries"
-msgstr ""
+msgstr "Dries"
 
 #: shop/templates/shop/cart.html:11
 msgid "My cart"
-msgstr ""
+msgstr "My cart"
 
 #: shop/templates/shop/cart.html:27
 msgid "Product name"
-msgstr ""
+msgstr "Product name"
 
 #: shop/templates/shop/cart.html:28
 msgid "Price"
-msgstr ""
+msgstr "Price"
 
 #: shop/templates/shop/cart.html:29
 msgid "Quantity"
-msgstr ""
+msgstr "Quantity"
 
 #: shop/templates/shop/cart.html:30 shop/templates/shop/cart.html:132
 msgid "Total"
-msgstr ""
+msgstr "Total"
 
 #: shop/templates/shop/cart.html:83 shop/templates/shop/cart.html:87
 msgid "Coupon code"
-msgstr ""
+msgstr "Coupon code"
 
 #: shop/templates/shop/cart.html:84
 msgid "Enter your coupon code if you have one"
-msgstr ""
+msgstr "Enter your coupon code if you have one"
 
 #: shop/templates/shop/cart.html:92
 msgid "Apply Coupon"
-msgstr ""
+msgstr "Apply Coupon"
 
 #: shop/templates/shop/cart.html:96
 msgid "Estimate shipping and tax"
-msgstr ""
+msgstr "Estimate shipping and tax"
 
 #: shop/templates/shop/cart.html:97
 msgid "Enter your destination to get a shipping estimate"
-msgstr ""
+msgstr "Enter your destination to get a shipping estimate"
 
 #: shop/templates/shop/cart.html:100
 msgid "Country"
-msgstr ""
+msgstr "Country"
 
 #: shop/templates/shop/cart.html:104
 msgid "State/Province"
-msgstr ""
+msgstr "State/Province"
 
 #: shop/templates/shop/cart.html:108
 msgid "Zip/Postal code"
-msgstr ""
+msgstr "Zip/Postal code"
 
 #: shop/templates/shop/cart.html:113
 msgid "Estimate"
-msgstr ""
+msgstr "Estimate"
 
 #: shop/templates/shop/cart.html:117
 msgid "Cart totals"
-msgstr ""
+msgstr "Cart totals"
 
 #: shop/templates/shop/cart.html:119
 msgid "Totals"
-msgstr ""
+msgstr "Totals"
 
 #: shop/templates/shop/cart.html:123
 msgid "Delivery"
-msgstr ""
+msgstr "Delivery"
 
 #: shop/templates/shop/cart.html:127
 msgid "Discount"
-msgstr ""
+msgstr "Discount"
 
 #: shop/templates/shop/index.html:15
 msgid "We serve Fresh Vegestables &Fruits"
-msgstr ""
+msgstr "We serve Fresh Vegestables &Fruits"
 
 #: shop/templates/shop/index.html:16
 msgid "We deliver organic vegetables & fruits"
-msgstr ""
+msgstr "We deliver organic vegetables & fruits"
 
 #: shop/templates/shop/index.html:17 shop/templates/shop/index.html:32
 msgid "View Details"
-msgstr ""
+msgstr "View Details"
 
 #: shop/templates/shop/index.html:30
 #, python-format
 msgid "100%% Fresh & Organic Foods"
-msgstr ""
+msgstr "100%% Fresh & Organic Foods"
 
 #: shop/templates/shop/index.html:31
 msgid "We deliver organic vegetables &amp; fruits"
-msgstr ""
+msgstr "We deliver organic vegetables &amp; fruits"
 
 #: shop/templates/shop/index.html:50
 msgid "Free Shipping"
-msgstr ""
+msgstr "Free Shipping"
 
 #: shop/templates/shop/index.html:51
 msgid "On order over $100"
-msgstr ""
+msgstr "On order over $100"
 
 #: shop/templates/shop/index.html:61
 msgid "Always Fresh"
-msgstr ""
+msgstr "Always Fresh"
 
 #: shop/templates/shop/index.html:62
 msgid "Product well package"
-msgstr ""
+msgstr "Product well package"
 
 #: shop/templates/shop/index.html:72
 msgid "Superior Quality"
-msgstr ""
+msgstr "Superior Quality"
 
 #: shop/templates/shop/index.html:73
 msgid "Quality Products"
-msgstr ""
+msgstr "Quality Products"
 
 #: shop/templates/shop/index.html:83
 msgid "Support<"
-msgstr ""
+msgstr "Support<"
 
 #: shop/templates/shop/index.html:84
 msgid "24/7 Support<"
-msgstr ""
+msgstr "24/7 Support<"
 
 #: shop/templates/shop/index.html:101
 msgid "Protect the health of every home"
-msgstr ""
+msgstr "Protect the health of every home"
 
 #: shop/templates/shop/index.html:102
 #, fuzzy
 #| msgid "Shop"
 msgid "Shop now"
-msgstr "Shop"
+msgstr "Shop now"
 
 #: shop/templates/shop/shop.html:13
 msgid "Products"
-msgstr ""
+msgstr "Products"
 
 #: shop/templates/shop/shop.html:24
 msgid "All"
-msgstr ""
+msgstr "All"
 
 #: shop/templates/shop/shop.html:28
 msgid "Dried"
-msgstr ""
+msgstr "Dried"
