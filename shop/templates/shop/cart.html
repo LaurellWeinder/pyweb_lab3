@@ -1,7 +1,7 @@
 {% extends 'shop/base.html' %}
 {% load static %}
-
 {% load i18n %}
+
 {% block content %}
     <div class="hero-wrap hero-bread" style="background-image: url({% static 'shop/images/bg_1.jpg' %});">
       <div class="container">
@@ -110,7 +110,7 @@
 	              </div>
 	            </form>
     				</div>
-    				<p><a href="checkout.html" class="btn btn-primary py-3 px-4">{% trans 'Estimate' %}</a></p>
+    				<p><a href="{% url 'checkout' %}" class="btn btn-primary py-3 px-4">{% trans 'Estimate' %}</a></p>
     			</div>
     			<div class="col-lg-4 mt-5 cart-wrap ftco-animate">
     				<div class="cart-total mb-3">
@@ -129,7 +129,7 @@
     					</p>
     					<hr>
     					<p class="d-flex total-price">
-    						<span>{% trans 'Totalпше' %}</span>
+    						<span>{% trans 'Total' %}</span>
     						<span>$17.60</span>
     					</p>
     				</div>
