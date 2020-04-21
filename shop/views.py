@@ -1,7 +1,7 @@
 from django.shortcuts import render, redirect
 from django.urls import reverse
 from django.views.generic import View
-from .models import Product, Blog
+from .models import Product, Blog, CartItem
 from .settings.base import *
 from django.core.paginator import Paginator
 
@@ -108,6 +108,10 @@ class CartView(View):
     def get(self, request):
         for k, v in request.COOKIES.items():
             print(k, v)
+        cart_items = CartItem.objects.all()
+
+        def get_sum():
+            return sum([item.name.price for item in cart_items])
 
         return render(request, 'shop/cart.html', {'phone_number': PHONE_NUMBER,
                                                   'title': TITLE,
@@ -115,6 +119,8 @@ class CartView(View):
                                                   'address': ADDRESS,
                                                   'text': TEXT,
                                                   'date': DATE,
+                                                  'cart_items': cart_items,
+                                                  'get_sum': get_sum
                                                   })
 
 

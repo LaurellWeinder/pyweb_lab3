@@ -29,3 +29,10 @@ class Blog(models.Model):
     @property
     def set_pretty_date(self):
         return self.date.strftime('%B %d, %Y')
+
+    class Meta:
+        ordering = ['-date']
+
+
+class CartItem(models.Model):
+    name = models.ForeignKey(Product, on_delete=models.CASCADE)
